@@ -9,8 +9,8 @@ jobs:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
-        with:
-          CREDLY_USER: username.0336bb6b
-          GH_TOKEN: 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
+         - name: Badges - Readme
+           uses: pemtajo/badge-readme@2.3.0
+           with:
+            CREDLY_USER: username.0336bb6b
+            GH_TOKEN: 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

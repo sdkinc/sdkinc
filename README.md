@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zhurbaoleksandr) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/starkyzh) 
 ## 🌐 Badges:
-![CodeWars](https://www.codewars.com/users/starkyzh/badges/small)
+[![CodeWars](https://www.codewars.com/users/starkyzh/badges/small)](https://www.codewars.com/users/starkyzh)
 
 [![python-essentials-1 1](https://github.com/sdkinc/sdkinc/assets/2033615/caed3e19-ec91-4426-aab4-68822c030f51)](https://www.credly.com/badges/251cdc26-19e1-485c-b33e-d41fceb6baea/public_url)
 [![introduction-to-cybersecurity](https://github.com/sdkinc/sdkinc/assets/2033615/47138990-cbf2-411a-962c-6c48d194e6f5)](https://www.credly.com/badges/da660e00-b94f-4049-9c2a-8489636e9e3a/public_url)
